@@ -1,0 +1,26 @@
+body {
+  width: 210px;
+  display: flex;
+  justify-content: center;
+}
+
+#prismic-website {
+  align-items: center;
+}
+
+#prismic-website span {
+  margin-left: 10px;
+}
+
+#loading,
+#prismic-website span,
+#not-prismic-website,
+#error {
+  font-size: 14px;
+}
+
+#prismic-website,
+#not-prismic-website,
+#error {
+  display: none;
+}

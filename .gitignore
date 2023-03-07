@@ -1,0 +1,17 @@
+# Ignore
+
+## root folders & dot-files
+/*/
+.*
+
+# Authorize
+
+# files
+!.gitignore
+
+## folders
+!/css/
+!/html/
+!/images/
+!/js/
+
